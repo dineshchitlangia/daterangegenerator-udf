@@ -3,7 +3,7 @@
   <groupId>com.dc.hadoop</groupId>
   <artifactId>daterangegenerator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>dategenerator</name>
+  <name>daterangegenerator</name>
   <dependencies>
   	<dependency>
   		<groupId>joda-time</groupId>
